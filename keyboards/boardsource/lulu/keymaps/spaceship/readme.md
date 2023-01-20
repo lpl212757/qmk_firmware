@@ -1,7 +1,7 @@
 # Spaceship Battle Keyboard
 
 Take your keyboard to the next level with this interactive OLED keymap!
-[Spaceship battle DEMO](https://youtube.com/shorts/vfcvd-UC4go)
+[![Spaceship battle DEMO](https://img.youtube.com/vi/vfcvd-UC4go/maxresdefault.jpg)](https://youtube.com/shorts/vfcvd-UC4go)
 
 ## Features
 - Move your spaceship around the OLED screen
